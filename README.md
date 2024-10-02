@@ -8,6 +8,7 @@
 -   **Custom Taxonomies**: Allows categorization of events with "Event Type"
 -   **Admin Interface Enhancements**: Includes custom meta boxes for additional fields such as event date and location.
 -   **Shortcode**: Enables embedding event listings in posts or pages with searching filter. [event_list]
+-   **Archive**: Enables to view events on this URL : https://your-site.com/events
 -   **Search and Filtering**: Provides functionality to filter events by date and taxonomy in shortcode.
 -   **User Notifications**: Sends email notifications when events are published or updated.
 -   **RSVP Functionality**: Allows users to confirm attendance at events via link in email content.
