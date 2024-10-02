@@ -1,0 +1,17 @@
+{
+    "name": "aliatashinbar/event-manager",
+    "autoload": {
+        "psr-4": {
+            "Aliatashinbar\\EventManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ali Atashinbar",
+            "email": "ali.atashinbar@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.3"
+    }
+}

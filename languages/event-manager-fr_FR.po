@@ -1,0 +1,145 @@
+# Copyright (C) 2024 Ali Atashin Bar
+# This file is distributed under the same license as the Event Manager plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Event Manager 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/event-manager\n"
+"POT-Creation-Date: 2024-10-02T20:05:32+00:00\n"
+"PO-Revision-Date: 2024-10-03 00:06+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Domain: event-manager\n"
+
+#. Plugin Name of the plugin
+#: event-manager.php
+msgid "Event Manager"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: event-manager.php
+msgid "PLUGIN SITE HERE"
+msgstr ""
+
+#. Description of the plugin
+#: event-manager.php
+msgid "PLUGIN DESCRIPTION HERE"
+msgstr ""
+
+#. Author of the plugin
+#: event-manager.php
+msgid "Ali Atashin Bar"
+msgstr ""
+
+#. Author URI of the plugin
+#: event-manager.php
+msgid "YOUR SITE HERE"
+msgstr ""
+
+#: event-manager.php:108 event-manager.php:110
+msgid "Events"
+msgstr ""
+
+#: event-manager.php:109 event-manager.php:111 event-manager.php:124
+msgid "Event"
+msgstr ""
+
+#: event-manager.php:112 event-manager.php:113
+msgid "Add New Event"
+msgstr ""
+
+#: event-manager.php:114
+msgid "New Event"
+msgstr ""
+
+#: event-manager.php:115
+msgid "Edit Event"
+msgstr ""
+
+#: event-manager.php:116
+msgid "View Event"
+msgstr ""
+
+#: event-manager.php:117
+msgid "All Events"
+msgstr ""
+
+#: event-manager.php:118 event-manager.php:238
+msgid "Search Events"
+msgstr ""
+
+#: event-manager.php:119
+msgid "No Events found."
+msgstr ""
+
+#: event-manager.php:120
+msgid "No Events found in Trash."
+msgstr ""
+
+#: event-manager.php:125
+msgid "Event Post Type"
+msgstr ""
+
+#: event-manager.php:143
+msgid "Event Types"
+msgstr ""
+
+#: event-manager.php:144
+msgid "Event Type"
+msgstr ""
+
+#: event-manager.php:163
+msgid "Event Details"
+msgstr ""
+
+#: event-manager.php:178 event-manager.php:209 event-manager.php:252
+msgid "Event Date"
+msgstr ""
+
+#: event-manager.php:181 event-manager.php:210
+msgid "Event Location"
+msgstr ""
+
+#: event-manager.php:242
+msgid "All Event Types"
+msgstr ""
+
+#: event-manager.php:255 event-manager.php:277
+msgid "Location"
+msgstr ""
+
+#: event-manager.php:257
+msgid "Search"
+msgstr ""
+
+#: event-manager.php:276
+msgid "Date"
+msgstr ""
+
+#: event-manager.php:282
+msgid "No events found"
+msgstr ""
+
+#: event-manager.php:480
+msgid "Thank you for confirming your attendance at the event!"
+msgstr ""
+
+#: event-manager.php:491
+msgid "RSVP List"
+msgstr ""
+
+#: event-manager.php:511
+msgid "No RSVPs yet."
+msgstr ""
+
+#: templates/single-event.php:5
+msgid "Event Date:"
+msgstr ""
+
+#: templates/single-event.php:6
+msgid "Location:"
+msgstr ""
